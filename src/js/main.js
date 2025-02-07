@@ -3,7 +3,7 @@ import 'izitoast/dist/css/iziToast.min.css';
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
-const my_api = '45998239-83277c8f1384b713dfba7e075';
+const my_api = '48697564-5c416ead99d2d691bdf9ece43';
 const searchInput = document.querySelector('.search-input');
 const searchBtn = document.querySelector('.search-btn');
 const images = document.querySelector('.images');
